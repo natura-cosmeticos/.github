@@ -8,7 +8,6 @@ This PR brings the following changes:
 - Change 2;
 - Change 3.
 
-
 ### Type of change
 
 - [ ] fix: non-breaking change which fixes a bug/issue;
@@ -20,13 +19,40 @@ This PR brings the following changes:
 
 ### Related issue
 
-(Please add a reference to a related GitHub/Jira issue)
+(Please add a link or reference to a related GitHub/Jira issue)
 
 ### Dependencies added/removed (if applicable)
 
 - Add: `dependency1`;
 - Update: `dependency2`;
 - Remove: `dependency3`;
+
+---
+
+### Testing
+
+- [ ] I have added or updated tests that prove my fix is effective or that my feature works (if applicable)
+
+#### This was tested with:
+
+- [ ] Unit test
+- [ ] Snapshot test
+- [ ] Manual test
+- [ ] Another test...
+
+#### How to test
+
+Describe the tests that you ran to verify your changes:
+
+1. Run...
+2. Open...
+3. Check if...
+
+#### Test configuration
+
+- Node.js version (if applicable):
+- NPM version (if applicable):
+- Yarn version (if applicable):
 
 ---
 
@@ -44,4 +70,4 @@ This PR brings the following changes:
 
 ### Testing
 
-- [ ] I have added tests that prove my fix is effective or that my feature works;
+- [ ] I created/updated an unit test to verify these changes;
