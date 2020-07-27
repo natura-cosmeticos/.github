@@ -32,13 +32,10 @@ This PR brings the following changes:
 ### Testing
 
 - [ ] I have added or updated tests that prove my fix is effective or that my feature works (if applicable)
-
-#### This was tested with:
-
-- [ ] Unit test
-- [ ] Snapshot test
-- [ ] Manual test
-- [ ] Another test...
+  - [ ] Unit test
+  - [ ] Snapshot test
+  - [ ] Manual test
+  - [ ] Another test...
 
 #### How to test
 
@@ -67,7 +64,3 @@ Describe the tests that you ran to verify your changes:
 - [ ] I have mapped technical debts found on my changes;
 - [ ] I have made corresponding changes to the documentation (if applicable);
 - [ ] My changes generate no new warnings or errors;
-
-### Testing
-
-- [ ] I created/updated an unit test to verify these changes;
