@@ -8,8 +8,6 @@ This PR brings the following changes:
 - Change 2;
 - Change 3.
 
-- [ ] **This is a breaking change** which cause existing functionality to not work as expected;
-
 ### Related issue
 
 (Please add a link or reference to a related GitHub/Jira issue)
