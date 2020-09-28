@@ -8,14 +8,7 @@ This PR brings the following changes:
 - Change 2;
 - Change 3.
 
-### Type of change
-
-- [ ] fix: non-breaking change which fixes a bug/issue;
-- [ ] feat: non-breaking change which adds a new feature/funcionality;
-- [ ] **breaking change** which cause existing functionality to not work as expected;
-- [ ] docs: includes a documentation update;
-- [ ] chore: internal change;
-- [ ] refactor: code refactoring.
+- [ ] **This is a breaking change** which cause existing functionality to not work as expected;
 
 ### Related issue
 
@@ -54,8 +47,6 @@ Describe the tests that you ran to verify your changes:
 ---
 
 ## Checklist
-
-### General
 
 - [ ] I have added corresponding labels to this PR (like bug, enhancement...);
 - [ ] My commits follow the [Conventional Commits 1.0 Guidelines](https://www.conventionalcommits.org/en/v1.0.0/);
